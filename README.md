@@ -1,6 +1,6 @@
 # Merge Sort
 
-**Note that this implementation is unfinished.**
+**Note that this implementation is unfinished. It doesn't capture a certain edge case.**
 
 This exercise is inspired by ADS and meant to get you reacquainted with a slightly more involved version of recursion.
 
